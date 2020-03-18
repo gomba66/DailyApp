@@ -1,5 +1,5 @@
 <body>
-<img style="display: block" src="https://i.ibb.co/6Y2NLRY/Logo-Time.png">
+<img style="text-align: left" src="https://i.ibb.co/6Y2NLRY/Logo-Time.png">
 <h1>Welcome to DailyApp</h1>
 
 <p>This is a mobile application that reduces the lost time, at the same time generate and improve the daily productivity.</p>
@@ -18,10 +18,10 @@
 <img src="https://i.ibb.co/R0d8NVn/Home.png"/>
 <h2>Reduce your shower times</h2>
 <img src="https://i.ibb.co/yBC4bY7/Grupo-69.png"/>
-<img style="position: left"src="https://i.ibb.co/L1t52HC/schedule.png"/>
+<img style="text-align: left" src="https://i.ibb.co/L1t52HC/schedule.png"/>
 
 <h2>Set weekly goals!</h2>
-<img src="https://i.ibb.co/q73bMyg/Activities.png"/>
+<img style="text-align: left" src="https://i.ibb.co/q73bMyg/Activities.png"/>
 
 <h3>Developed by:</h3>
   <h4><a href="https://twitter.com/ToqYang">Santiago Yanguas</a></h4>
