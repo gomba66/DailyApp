@@ -1,8 +1,3 @@
-<style>
-  img{
-  diplay: flex;
-  }
-</style>
 <img src="https://i.ibb.co/6Y2NLRY/Logo-Time.png">
 <h1>Welcome to DailyApp</h1>
 
@@ -22,7 +17,7 @@
 <img src="https://i.ibb.co/R0d8NVn/Home.png"/>
 <h2>Reduce your shower times</h2>
 <img src="https://i.ibb.co/yBC4bY7/Grupo-69.png"/>
-<img src="https://i.ibb.co/L1t52HC/schedule.png"/>
+<img style="position: left"src="https://i.ibb.co/L1t52HC/schedule.png"/>
 
 <h2>Set weekly goals!</h2>
 <img src="https://i.ibb.co/q73bMyg/Activities.png"/>
