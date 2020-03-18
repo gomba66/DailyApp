@@ -7,7 +7,7 @@
 
 <h2>Be more productive</h2>
 
-<ol>Compete with other people
+<ol><li>Compete with other people</li>
 
 <li>Through a leaderboard, compete to find out which one has more hours of productivity.</li>
 
