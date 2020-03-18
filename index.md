@@ -1,3 +1,8 @@
+<style>
+  img{
+  diplay: flex;
+  }
+</style>
 <img src="https://i.ibb.co/6Y2NLRY/Logo-Time.png">
 <h1>Welcome to DailyApp</h1>
 
