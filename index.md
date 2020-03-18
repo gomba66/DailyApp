@@ -20,7 +20,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+<p>HOLA</p>
+<h1>asdfasdfasd</h1>
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
