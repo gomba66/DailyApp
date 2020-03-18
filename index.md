@@ -18,6 +18,10 @@
 <h2>Reduce your shower times</h2>
 <img src="https://i.ibb.co/yBC4bY7/Grupo-69.png"/>
 <img src="https://i.ibb.co/L1t52HC/schedule.png"/>
+
+<h2>Set weekly goals!</h2>
+<img src="https://i.ibb.co/q73bMyg/Activities.png"/>
+
 <h3>Developed by:</h3>
   <h4><a href="https://twitter.com/ToqYang">Santiago Yanguas</a></h4>
   <h4><a href="https://www.twitter.com/gomba662">Daniel Ramirez</a></h4>
