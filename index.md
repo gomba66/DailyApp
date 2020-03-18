@@ -18,4 +18,4 @@
 <h
 <h3>Developed by:</h3>
 <h4>Santiago Yanguas<h4>
-  <h4><a href src="https://www.twitter.com/gomba662">Daniel Ramirez</a><h4>
+  <h4><a href="https://www.twitter.com/gomba662">Daniel Ramirez</a><h4>
