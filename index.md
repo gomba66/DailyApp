@@ -1,3 +1,4 @@
+<body>
 <img src="https://i.ibb.co/6Y2NLRY/Logo-Time.png">
 <h1>Welcome to DailyApp</h1>
 
@@ -25,3 +26,4 @@
 <h3>Developed by:</h3>
   <h4><a href="https://twitter.com/ToqYang">Santiago Yanguas</a></h4>
   <h4><a href="https://www.twitter.com/gomba662">Daniel Ramirez</a></h4>
+</body>
