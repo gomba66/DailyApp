@@ -15,7 +15,7 @@
 </ol>
 
 <img src="https://i.ibb.co/R0d8NVn/Home.png"/>
-<h2>Reduce your shower times"</h2>
+<h2>Reduce your shower times</h2>
 <img src="https://i.ibb.co/yBC4bY7/Grupo-69.png"/>
 <img src="https://i.ibb.co/L1t52HC/schedule.png"/>
 <h3>Developed by:</h3>
