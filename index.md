@@ -1,4 +1,4 @@
-<h1>Welcome to DailyApp
+<h1>Welcome to DailyApp</h1>
 
-This is a mobile application that reduces the lost time, at the same time generate and improve the daily productivity.
+<p>This is a mobile application that reduces the lost time, at the same time generate and improve the daily productivity.</p>
 
