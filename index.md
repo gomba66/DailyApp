@@ -15,4 +15,7 @@
 </ol>
 
 <img src="https://i.ibb.co/R0d8NVn/Home.png"/>
-<h3>You can downlad the application on the AppStore or PlayStore</h3>
+<h
+<h3>Developed by:</h3>
+<h4>Santiago Yanguas<h4>
+  <h4><a href src="https://www.twitter.com/gomba662">Daniel Ramirez</a><h4>
