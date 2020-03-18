@@ -17,5 +17,5 @@
 <img src="https://i.ibb.co/R0d8NVn/Home.png"/>
 <h
 <h3>Developed by:</h3>
-<h4><a href="https://twitter.com/ToqYang">Santiago Yanguas</a><h4>
-  <h4><a href="https://www.twitter.com/gomba662">Daniel Ramirez</a><h4>
+  <h4><a href="https://twitter.com/ToqYang">Santiago Yanguas</a></h4>
+  <h4><a href="https://www.twitter.com/gomba662">Daniel Ramirez</a></h4>
