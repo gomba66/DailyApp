@@ -24,7 +24,8 @@
 <img style="text-align: left" src="https://i.ibb.co/q73bMyg/Activities.png"/>
 
 <h2>See our demo Video <a href="https://youtu.be/43KXNuEGYSs">here</a></h2>
-
+<h2>About us:</h2>
+<p>Our inspiration: Lo que nos motivó a crear esta aplicacion fue a modo personal, al darnos cuenta que desperdiciabamos tiempo innecesario en algunas actividades basicas, que no requerian tal cantidad de tiempo para completarsen, fue por esto que decidimos crear una aplicacion que controlara estos tiempos y nos ayuden a medir y competir entre multiples usuarios estos datos para así mejorar y reducir estos tiempos.</p>
 <h3>Developed by:</h3>
   <h4><a href="https://twitter.com/ToqYang">Santiago Yanguas</a></h4>
   <h4><a href="https://www.twitter.com/gomba662">Daniel Ramirez</a></h4>
