@@ -25,7 +25,7 @@
 
 <h2>See our demo Video <a href="https://youtu.be/43KXNuEGYSs">here</a></h2>
 <h2>About us:</h2>
-<p>Our inspiration: Lo que nos motivó a crear esta aplicacion fue a modo personal, al darnos cuenta que desperdiciabamos tiempo innecesario en algunas actividades basicas, que no requerian tal cantidad de tiempo para completarsen, fue por esto que decidimos crear una aplicacion que controlara estos tiempos y nos ayuden a medir y competir entre multiples usuarios estos datos para así mejorar y reducir estos tiempos.</p>
+<p>Our inspiration: What motivated us to create this application was in a personal way, realizing that we were wasting unnecessary time in some basic activities, which did not require such an amount of time to complete, that is why we decided to create an application that will control these times and help us measure and compete among multiple users this data in order to improve and reduce these times.</p>
 <h3>Developed by:</h3>
   <h4><a href="https://twitter.com/ToqYang">Santiago Yanguas</a></h4>
   <h4><a href="https://www.twitter.com/gomba662">Daniel Ramirez</a></h4>
