@@ -23,6 +23,8 @@
 <h2>Set weekly goals!</h2>
 <img style="text-align: left" src="https://i.ibb.co/q73bMyg/Activities.png"/>
 
+<h2>See our demo Video <a href="https://youtu.be/43KXNuEGYSs">here</a></h2>
+
 <h3>Developed by:</h3>
   <h4><a href="https://twitter.com/ToqYang">Santiago Yanguas</a></h4>
   <h4><a href="https://www.twitter.com/gomba662">Daniel Ramirez</a></h4>
