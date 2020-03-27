@@ -24,6 +24,7 @@
 <img style="text-align: left" src="https://i.ibb.co/q73bMyg/Activities.png"/>
 
 <h2>See our demo Video <a href="https://youtu.be/43KXNuEGYSs">here</a></h2>
+<h2>And if you want to try a live web application, click <a href="https://snack.expo.io/@toqyang/dailyapp">here!.</a> </h2>
 <h2>About us:</h2>
 <p>Our inspiration: What motivated us to create this application was in a personal way, realizing that we were wasting unnecessary time in some basic activities, which did not require such an amount of time to complete, that is why we decided to create an application that will control these times and help us measure and compete among multiple users this data in order to improve and reduce these times.</p>
 <h3>Developed by:</h3>
